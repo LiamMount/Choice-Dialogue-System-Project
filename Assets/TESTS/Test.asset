@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0856f3124a56d640b3a9ac96cc02d11, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: Bruh
+    dialogue: Still works!
+    additive: 0
+    character: {fileID: 992603428952383523, guid: f56cadafd3ae2364f89495ff53241bc8, type: 3}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0.04
+    removeFromScene: 0
+    stageDirection: 4
+    moveSpeed: 3
+    reverseImage: 1
+    animation: 0
+    isChoiceNode: 0
+    choiceName: 
+    choice1Text: 
+    choiceConvo1: {fileID: 0}
+    choice1Result: 
+    choice2Text: 
+    choiceConvo2: {fileID: 0}
+    choice2Result: 
+    choice3Text: 
+    choiceConvo3: {fileID: 0}
+    choice3Result: 
+  - speaker: Bruh
+    dialogue: At least I think anyway
+    additive: 0
+    character: {fileID: 0}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0.04
+    removeFromScene: 0
+    stageDirection: 2
+    moveSpeed: 3
+    reverseImage: 0
+    animation: 0
+    isChoiceNode: 0
+    choiceName: 
+    choice1Text: 
+    choiceConvo1: {fileID: 0}
+    choice1Result: 
+    choice2Text: 
+    choiceConvo2: {fileID: 0}
+    choice2Result: 
+    choice3Text: 
+    choiceConvo3: {fileID: 0}
+    choice3Result: 
+  - speaker: Me
+    dialogue: Wait why do the new elements always start filled out?
+    additive: 0
+    character: {fileID: 0}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0.04
+    removeFromScene: 1
+    stageDirection: 0
+    moveSpeed: 3
+    reverseImage: 0
+    animation: 0
+    isChoiceNode: 0
+    choiceName: 
+    choice1Text: 
+    choiceConvo1: {fileID: 0}
+    choice1Result: 
+    choice2Text: 
+    choiceConvo2: {fileID: 0}
+    choice2Result: 
+    choice3Text: 
+    choiceConvo3: {fileID: 0}
+    choice3Result: 

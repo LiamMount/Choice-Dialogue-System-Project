@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0856f3124a56d640b3a9ac96cc02d11, type: 3}
+  m_Name: ChTest
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: Brother
+    dialogue: Huh
+    additive: 0
+    character: {fileID: 0}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0
+    removeFromScene: 0
+    stageDirection: 0
+    moveSpeed: 0
+    reverseImage: 0
+    animation: 0
+    isChoiceNode: 0
+    choiceName: 
+    choice1Text: 
+    choiceConvo1: {fileID: 0}
+    choice1Result: 
+    choice2Text: 
+    choiceConvo2: {fileID: 0}
+    choice2Result: 
+    choice3Text: 
+    choiceConvo3: {fileID: 0}
+    choice3Result: 
+  - speaker: Strange
+    dialogue: Hmmm
+    additive: 0
+    character: {fileID: 0}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0
+    removeFromScene: 0
+    stageDirection: 0
+    moveSpeed: 0
+    reverseImage: 0
+    animation: 0
+    isChoiceNode: 0
+    choiceName: Test
+    choice1Text: Option 1
+    choiceConvo1: {fileID: 11400000}
+    choice1Result: Uno
+    choice2Text: Option 2
+    choiceConvo2: {fileID: 11400000, guid: 28cbe1d9e7fb05f498e35f97fcf93fd8, type: 2}
+    choice2Result: Dos
+    choice3Text: Option 3
+    choiceConvo3: {fileID: 11400000, guid: 61fe03a116e5ad24482f82fdcc315e25, type: 2}
+    choice3Result: Tres
+  - speaker: 3
+    dialogue: Three
+    additive: 0
+    character: {fileID: 0}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0
+    removeFromScene: 0
+    stageDirection: 0
+    moveSpeed: 0
+    reverseImage: 0
+    animation: 0
+    isChoiceNode: 0
+    choiceName: Test
+    choice1Text: Option 1
+    choiceConvo1: {fileID: 11400000}
+    choice1Result: Uno
+    choice2Text: Option 2
+    choiceConvo2: {fileID: 11400000, guid: 28cbe1d9e7fb05f498e35f97fcf93fd8, type: 2}
+    choice2Result: Dos
+    choice3Text: Option 3
+    choiceConvo3: {fileID: 11400000, guid: 61fe03a116e5ad24482f82fdcc315e25, type: 2}
+    choice3Result: Tres
+  - speaker: 
+    dialogue: 
+    additive: 0
+    character: {fileID: 0}
+    speakerImage: {fileID: 0}
+    speakingSound: {fileID: 0}
+    timeBetweenLetters: 0
+    removeFromScene: 0
+    stageDirection: 0
+    moveSpeed: 0
+    reverseImage: 0
+    animation: 0
+    isChoiceNode: 1
+    choiceName: Test
+    choice1Text: Option 1
+    choiceConvo1: {fileID: 11400000}
+    choice1Result: Uno
+    choice2Text: Option 2
+    choiceConvo2: {fileID: 11400000, guid: 61fe03a116e5ad24482f82fdcc315e25, type: 2}
+    choice2Result: Dos
+    choice3Text: Option 3
+    choiceConvo3: {fileID: 11400000, guid: 28cbe1d9e7fb05f498e35f97fcf93fd8, type: 2}
+    choice3Result: Tres
