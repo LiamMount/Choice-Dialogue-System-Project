@@ -7,3 +7,5 @@ In the end I got it working, but it isn't very visually impressive just yet.
 
 A video showing off the functionality can be found here:
 https://www.youtube.com/watch?v=HDYYLoP7SfI
+
+// Also, chances are this system could be improved by separating the normal dialogue nodes and choice dialogue nodes into their own subclasses of a sort of "Master" dialogue class. I will likely get around to trying this in the near future.
