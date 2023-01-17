@@ -3,4 +3,7 @@
 
 This is a test dialogue system I made over the course of about a month or so. I had to mix a few different ideas together to create this, because there were no tutorials that were both plugin-free and up to date.
 
-In the end I got it working, but it isn't very visually impressive.
+In the end I got it working, but it isn't very visually impressive just yet.
+
+A video showing off the functionality can be found here:
+https://www.youtube.com/watch?v=HDYYLoP7SfI
